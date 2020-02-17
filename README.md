@@ -13,28 +13,28 @@ This is a good project because it is so well understood.
 
 So, these steps are followed here:
 1. Downloading, Installing and Starting Python SciPy
-1.1 Install SciPy Libraries
-1.2 Start Python and Check Versions
+  1.1 Install SciPy Libraries
+  1.2 Start Python and Check Versions
 2. Load The Data
-2.1 Import libraries
-2.2 Load Dataset
+  2.1 Import libraries
+  2.2 Load Dataset
 3. Summarize the Dataset
-3.1 Dimensions of Dataset
-3.2 Peek at the Data
-3.3 Statistical Summary
-3.4 Class Distribution
-3.5 Complete Example
+  3.1 Dimensions of Dataset
+  3.2 Peek at the Data
+  3.3 Statistical Summary
+  3.4 Class Distribution
+  3.5 Complete Example
 4. Data Visualization
-4.1 Univariate Plots
-4.2 Multivariate Plots
-4.3 Complete Example
+  4.1 Univariate Plots
+  4.2 Multivariate Plots
+  4.3 Complete Example
 5. Evaluate Some Algorithms
-5.1 Create a Validation Dataset
-5.2 Test Harness
-5.3 Build Models
-5.4 Select Best Model
-5.5 Complete Example
+  5.1 Create a Validation Dataset
+  5.2 Test Harness
+  5.3 Build Models
+  5.4 Select Best Model
+  5.5 Complete Example
 6. Make Predictions
-6.1 Make Predictions
-6.2 Evaluate Predictions
-6.3 Complete Example
+  6.1 Make Predictions
+  6.2 Evaluate Predictions
+  6.3 Complete Example
